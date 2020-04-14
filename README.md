@@ -12,3 +12,6 @@ pip install -r requirement.txt
    python testing_caption_generator.py -i "here in quotes mention the path of any picture with it's extension"
    and run and wait for the output.
 
+# Sample output: 
+visit this link:
+https://drive.google.com/open?id=11ri--UIKzNg9IRrXEeJi3xbeIUx5jEEq
