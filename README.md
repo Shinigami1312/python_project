@@ -3,6 +3,7 @@
 # Requirements:
 install the requirements with the following command:
 pip install -r requirement.txt
+and download the dataset which are of approx 1GB. 
 
 # How to run?
 1. Open training_caption generator jupyter file
